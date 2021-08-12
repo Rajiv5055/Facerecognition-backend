@@ -1,5 +1,5 @@
-# SmartBrain-api - v2
-Final project for ZTM course
+# Facerecognition-api
+
 
 1. Clone this repo
 2. Run `npm install`
